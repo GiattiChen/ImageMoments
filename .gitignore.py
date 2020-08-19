@@ -1,6 +1,6 @@
 Liu_processed/
 common-standard-chinese-characters-table-master/
-*.png/
+*.png
 m4_1/
 data_shang/
 _pycache_/
